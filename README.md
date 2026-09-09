@@ -3,6 +3,7 @@
 Student: Anastasiia Kuznitsova
 Group: IT-32
 Course: Python programming, semester 1
+Email: nana.txwq@gmail.com
 
 ## Contents
 
